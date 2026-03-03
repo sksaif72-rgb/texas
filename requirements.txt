@@ -1,1 +1,2 @@
-python-telegram-bot==20.7
+python-telegram-bot==22.6
+# أو استخدم ==21.9 إذا واجهت مشاكل مع 22.x
